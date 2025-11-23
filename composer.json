@@ -1,6 +1,7 @@
 {
     "name": "alphavel/websocket",
     "description": "High-performance WebSocket server with broadcasting for Alphavel Framework",
+    "version": "1.0.0",
     "keywords": ["websocket", "swoole", "broadcasting", "real-time", "alphavel", "performance"],
     "license": "MIT",
     "type": "library",
